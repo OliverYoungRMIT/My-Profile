@@ -44,18 +44,4 @@ I am currently lacking the professional skills and experience on paper but I hav
 
 There are a few different skills and certifications I am currently pursuing, as mentioned above I am currently studying for the CompTIA security+ exam, in addition I have been fairly active on [Hackerrank.com](hackerrank.com). There are a number of certifications I believe I could pass at the current moment, but they are quite expensive and I am terrible in exams, so my first step is to overcome my exam anxiety – I will need to, as much of IT is keeping up with current certifications.
 
----
-title: Help Center
-navigation:
-  - section: Help Center
-  - document: overview_doc
-    label: Overview
-  - document: data_sources_doc
-    label: Data Sources
-  - document: data_definitions_doc
-    label: Data Definitions
-  - document: faq_doc
-    label: FAQ
-  - document: release_notes_doc
-    label: Release Notes
----
+

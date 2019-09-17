@@ -1,4 +1,7 @@
 ## Oliver Young
+## Student ID: s3819242
+## s3819242@student.rmit.edu.au
+
 
 You can use the [editor on GitHub](https://github.com/OliverYoungRMIT/My-Profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

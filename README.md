@@ -1,6 +1,9 @@
-## Oliver Young
-## Student ID: s3819242
-## s3819242@student.rmit.edu.au
+# Oliver Young
+### Student ID: s3819242
+### s3819242@student.rmit.edu.au
+
+
+### What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
 
 
 You can use the [editor on GitHub](https://github.com/OliverYoungRMIT/My-Profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

@@ -5,6 +5,7 @@
 I was born in Australia and have lived in every state at some point in my life, I have played guitar my entire life and was taught piano by my grandfather as a child. Despite my interest in computers and video games, I also love the outdoors and frequently go camping and love hiking. I also once managed to burn scrambled eggs while cooking.
 
 This is an image I took while hiking in Japan.
+
 ![Image I took while hiking in Japan](https://i.imgur.com/tHoVzy6.jpg)
 
 
@@ -22,8 +23,20 @@ I except to learn a large variety of skills, in another course I am creating a 2
 MORE ON THIS
 
 ### IDEAL JOB
+#[Penetration Tester | EY](https://i.imgur.com/L9VJVn0.png)
+![Ideal job](http://i.imgur.com/b1MJsAL.png)
 
-!
+### A description (in your own words) of the position, and particularly what makes this position appealing to you.
+
+As I mentioned, I have a particular interest in Cybersecurity. I have always enjoyed solving puzzles and to me, pen-testing is much like puzzle solving, I also enjoy that much of pen-testing involves social engineering, a skill I find extremely interesting and one that I desire to learn more about. One of the required responsibilities is drive Cybersecurity staff recruitment as well as create awareness of the need for Cybersecurity – A skill I believe many people are lacking.
+
+### A description (in your own words) of the skills, qualifications and experience required for the position.
+
+There are a number of certifications that are required in IT and Cybersecurity is no different. The job suggests a willingness to pursue many of these certifications, including OSCP, SANS, CREST, MSCIPT, etc. From talking to multiple young Cybersecurity professionals and close friends, CompTIA security+ is a particularly necessary certification that opens many doors and one that I am personally studying for currently.
+
+### A description (in your own words) of the skills, qualifications and experience you currently have.
+
+I am currently lacking the professional skills and experience on paper but I have been in many (ethical) hacking circles for a long time and have a lot of personal experience and connections in this field.
 
 You can use the [editor on GitHub](https://github.com/OliverYoungRMIT/My-Profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

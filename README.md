@@ -9,7 +9,7 @@ This is an image I took while hiking in Japan.
 ![Image I took while hiking in Japan](https://i.imgur.com/tHoVzy6.jpg)
 
 ### Contents
-⋅⋅* [Career goals and education](https://oliveryoungrmit.github.io/Career/)
+[Career goals and education](https://oliveryoungrmit.github.io/Career/)
 
 
 

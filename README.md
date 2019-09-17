@@ -23,7 +23,7 @@ I except to learn a large variety of skills, in another course I am creating a 2
 MORE ON THIS
 
 ### IDEAL JOB
-#[Penetration Tester | EY](https://i.imgur.com/L9VJVn0.png)
+[Penetration Tester | EY](https://i.imgur.com/L9VJVn0.png)
 ![Ideal job](http://i.imgur.com/b1MJsAL.png)
 
 ### A description (in your own words) of the position, and particularly what makes this position appealing to you.
@@ -38,38 +38,8 @@ There are a number of certifications that are required in IT and Cybersecurity i
 
 I am currently lacking the professional skills and experience on paper but I have been in many (ethical) hacking circles for a long time and have a lot of personal experience and connections in this field.
 
-You can use the [editor on GitHub](https://github.com/OliverYoungRMIT/My-Profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are a few different skills and certifications I am currently pursuing, as mentioned above I am currently studying for the CompTIA security+ exam, in addition I have been fairly active on [Hackerrank.com](hackerrank.com). There are a number of certifications I believe I could pass at the current moment, but they are quite expensive and I am terrible in exams, so my first step is to overcome my exam anxiety – I will need to, as much of IT is keeping up with current certifications.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OliverYoungRMIT/My-Profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

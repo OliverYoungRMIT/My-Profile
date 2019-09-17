@@ -11,6 +11,10 @@ This is an image I took while hiking in Japan.
 ### Contents
 [Career goals and education](https://oliveryoungrmit.github.io/Career/)
 
+[Personality](https://oliveryoungrmit.github.io/My-Personality/)
+
+[My Projects](https://oliveryoungrmit.github.io/Project-Idea/)
+
 
 
 
